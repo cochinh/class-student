@@ -67,12 +67,6 @@ class student {
 		double gethoa(){
 			return hoa;
 		}
-		class student : public chinh(int age){
-			 this -> age = age;
-			 chinh{
-			 	age = 0;
-			 }
-		};
 };
 int main(){
 	student *sv;
